@@ -11,3 +11,16 @@ header {
 nav {
   background-color: darkgrey;
 }
+body {
+  background-color: aliceblue;
+}
+footer {
+  background-color: black;
+  text-align: center;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 5px solid #ffefef;
+}
