@@ -28,6 +28,13 @@ nav {
   text-align: center;
   text-decoration: dotted;
 }
-  .historia-page {
-    header
-  }
+.historia-page header {
+  background-color: rgb(30, 142, 207);
+}
+.historia-page {
+  background-color: beige;
+}
+
+.trilhas-page header {
+  padding: 10px;
+}
