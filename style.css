@@ -29,7 +29,7 @@ nav {
   text-decoration: dotted;
 }
 .historia-page header {
-  background-color: rgb(30, 142, 207);
+  background-color: rgb(126, 10, 10);
 }
 .historia-page {
   background-color: beige;
@@ -37,4 +37,18 @@ nav {
 
 .trilhas-page header {
   padding: 10px;
+}
+.canto {
+  position: fixed;
+  right: 0pt;
+}
+.historia-page section {
+  border-color: bisque;
+  border-style: double;
+  position: fixed;
+  left: 0px;
+  font-size: medium;
+  text-align: left;
+  margin-left: 300px;
+  margin-top: 10px;
 }
