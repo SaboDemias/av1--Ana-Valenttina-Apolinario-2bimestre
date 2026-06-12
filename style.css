@@ -52,3 +52,64 @@ nav {
   margin-left: 300px;
   margin-top: 10px;
 }
+form {
+  background-color: #edf3f7;
+  border: 2px solid #21beda;
+  border-radius: 25px;
+
+  width: 700px;
+  padding: 40px;
+
+  box-shadow: 0 8px 20px rgba(0, 47, 109, 0.15);
+  margin: 50px auto;
+}
+
+form h2 {
+  text-align: center;
+  color: #4ddbff;
+  font-size: 40px;
+}
+
+label {
+  display: block;
+  margin-top: 20px;
+
+  font-size: 22px;
+  font-weight: bold;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+
+  padding: 15px;
+  margin-top: 8px;
+
+  border: 2px solid #ddb637;
+  border-radius: 12px;
+
+  font-size: 18px;
+
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+
+  margin-top: 30px;
+  padding: 18px;
+
+  background-color: #00a0bd;
+  color: rgb(0, 204, 255);
+
+  border: none;
+  border-radius: 12px;
+
+  font-size: 22px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #188ae7;
+}
